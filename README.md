@@ -1,9 +1,14 @@
-### Hi there 👋
+### Kwon Hyeon Su👋
+KwonHyeonSu
+경북대학교 - 3학년
 
-<!--
-**KwonHyeonSu/KwonHyeonSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+권현수
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?KwonHyeonSu=Kinetic27&show_icons=true)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0307kwon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![focus](https://img.shields.io/badge/focus-frontend-orange)
+![living](https://img.shields.io/badge/living-Daegu-3c9) [⚡notion](https://www.notion.so/Kwon-Se-jin-00efb7fd292c4af0b03421dd639134b3)
+
+<img src="https://github-readme-stats.vercel.app/api?username=0307kwon&show_icons=true&theme=radical" height=175px><span>                       </span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0307kwon&layout=compact" height=175px>
 
 
 Here are some ideas to get you started:
