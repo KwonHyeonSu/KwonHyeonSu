@@ -4,12 +4,7 @@ KwonHyeonSu
 
 권현수
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0307kwon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![focus](https://img.shields.io/badge/focus-frontend-orange)
-![living](https://img.shields.io/badge/living-Daegu-3c9) [⚡notion](https://www.notion.so/Kwon-Se-jin-00efb7fd292c4af0b03421dd639134b3)
-
-<img src="https://github-readme-stats.vercel.app/api?username=0307kwon&show_icons=true&theme=radical" height=175px><span>                       </span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0307kwon&layout=compact" height=175px>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonHyeonSu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Here are some ideas to get you started:
 
