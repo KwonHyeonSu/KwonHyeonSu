@@ -1,6 +1,6 @@
 ### Kwon Hyeon Su👋
 KwonHyeonSu
-경북대학교 - 3학년
+경북대학교 - 4학년
 
 권현수
 
